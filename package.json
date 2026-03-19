@@ -1,0 +1,8 @@
+{
+  "name": "ko-portal-backend",
+  "version": "1.0.0",
+  "description": "KO Buyer Portal — Netlify Functions backend",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
